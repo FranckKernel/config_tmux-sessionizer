@@ -9,8 +9,8 @@ TS_SESSION_COMMANDS=("$HOME/.config/tmux-sessionizer/cmd0.sh" "$HOME/.config/tmu
 
 # bindkey -s '\en' "tmux-sessionizer -t Runner 0\n"
 # bindkey -s '\et' "tmux-sessionizer -t Runner 1\n"
-# bindkey -s '\eg' "tmux-sessionizer -t Runner 2\n"
-# bindkey -s '\ef' "tmux-sessionizer -t Runner 3\n"
+# bindkey -s '\ef' "tmux-sessionizer -t Runner 2\n"
+# bindkey -s '\eg' "tmux-sessionizer -t Runner 3\n"
 TS_DASH_T_COMMANDS=("$HOME/.config/tmux-sessionizer/cmd0t.sh" "$HOME/.config/tmux-sessionizer/cmd1t.sh" "./build.sh" "./kill.sh")
 
 # TS_LOG="notify"
