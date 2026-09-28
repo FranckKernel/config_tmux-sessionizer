@@ -38,6 +38,7 @@ TS_SEARCH_PATHS=(
 	"$HOME/.config/ironbar"
 	"$HOME/.config/waybar"
 	"$HOME/.config/systemd"
+	"$HOME/.config/vsg"
 	"$HOME/.config/zsh"
 	"$HOME/.config/tmux-sessionizer-config"
 	"$HOME/.local/tmux-sessionizer-local"
@@ -65,6 +66,8 @@ TS_SEARCH_PATHS=(
 
 	"$HOME/Documents/University (Poly)/Semester 1/INF3500/Labs"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo1-franckkernel"
+	"$HOME/Documents/Vivado/inf3500-a26-g2-labo2-franckkernel"
+	"$HOME/Documents/Vivado/inf3500-a26-g2-labo3-franckkernel"
 
 	"
 "
