@@ -22,6 +22,8 @@ TS_SEARCH_PATHS=(
 	"$HOME/"
 	"$HOME/QolScripts/"
 	"$HOME/QolScripts/screen_placer"
+
+	"$HOME/.config"
 	"$HOME/.config/lf"
 	"$HOME/.config/hypr"
 	"$HOME/.config/i3"
@@ -42,6 +44,9 @@ TS_SEARCH_PATHS=(
 	"$HOME/.config/zsh"
 	"$HOME/.config/tmux-sessionizer-config"
 	"$HOME/.local/tmux-sessionizer-local"
+	"$HOME/.local/tmux-sessionizer"
+	# one above is for laptop. I should do some name change
+
 	"$HOME/Documents/"
 	"$HOME/Documents/GitClones"
 	"$HOME/Documents/Books"
@@ -65,6 +70,8 @@ TS_SEARCH_PATHS=(
 	"$HOME/STM32CubeIDE/workspace_2.2.0"
 
 	"$HOME/Documents/University (Poly)/Semester 1/INF3500/Labs"
+
+	"$HOME/Documents/University-Poly/Sem1/INF3500"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo1-franckkernel"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo2-franckkernel"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo3-franckkernel"
