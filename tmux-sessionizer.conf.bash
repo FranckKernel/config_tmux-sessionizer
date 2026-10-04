@@ -75,6 +75,7 @@ TS_SEARCH_PATHS=(
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo1-franckkernel"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo2-franckkernel"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo3-franckkernel"
+	"$HOME/Documents/University-Poly/Sem1/INF3500/Labs/inf3500-a26-g2-labo2-franckkernel"
 
 	"
 "
