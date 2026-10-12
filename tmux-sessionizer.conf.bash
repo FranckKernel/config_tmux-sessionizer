@@ -65,6 +65,7 @@ TS_SEARCH_PATHS=(
 	"$HOME/Documents/zzz__PersonalProjects/ESP32/myProject/"
 	"$HOME/Documents/zzz__PersonalProjects/ESP32/Esp32Kernel"
 
+	"$HOME/Documents/zzz__PersonalProjects/STM32/STMCube"
 	"$HOME/Documents/zzz__PersonalProjects/STM32/STMKernel/src"
 
 	"$HOME/STM32CubeIDE/workspace_2.2.0"
