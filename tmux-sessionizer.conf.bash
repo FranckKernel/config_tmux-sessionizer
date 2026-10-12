@@ -38,6 +38,7 @@ TS_SEARCH_PATHS=(
 	"$HOME/.config/gdb"
 	"$HOME/.config/tmux"
 	"$HOME/.config/ironbar"
+	"$HOME/.config/polybar"
 	"$HOME/.config/waybar"
 	"$HOME/.config/systemd"
 	"$HOME/.config/vsg"
