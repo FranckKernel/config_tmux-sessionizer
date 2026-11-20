@@ -68,6 +68,7 @@ TS_SEARCH_PATHS=(
 
 	"$HOME/Documents/zzz__PersonalProjects/STM32/STMCube"
 	"$HOME/Documents/zzz__PersonalProjects/STM32/STMKernel/src"
+	# "$HOME/Documents/zzz__PersonalProjects/STM32/STM32Kernel/src"
 
 	"$HOME/STM32CubeIDE/workspace_2.2.0"
 
@@ -77,7 +78,11 @@ TS_SEARCH_PATHS=(
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo1-franckkernel"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo2-franckkernel"
 	"$HOME/Documents/Vivado/inf3500-a26-g2-labo3-franckkernel"
+	"$HOME/Documents/University-Poly/Sem1/INF3500/Labs/inf3500-a26-g2-labo1-franckkernel"
 	"$HOME/Documents/University-Poly/Sem1/INF3500/Labs/inf3500-a26-g2-labo2-franckkernel"
+	"$HOME/Documents/University-Poly/Sem1/INF3500/Labs/inf3500-a26-g2-labo3-franckkernel"
+	"$HOME/Documents/University-Poly/Sem1/INF3500/Labs/inf3500-a26-g2-labo4-franckkernel"
+	"$HOME/Documents/University-Poly/Sem1/INF3500/Labs/inf3500-a26-g2-labo5-franckkernel"
 
 	"
 "
